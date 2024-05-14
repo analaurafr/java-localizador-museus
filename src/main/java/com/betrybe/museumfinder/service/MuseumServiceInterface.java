@@ -1,5 +1,6 @@
 package com.betrybe.museumfinder.service;
 
+import com.betrybe.museumfinder.exception.InvalidCoordinateException;
 import com.betrybe.museumfinder.model.Coordinate;
 import com.betrybe.museumfinder.model.Museum;
 
